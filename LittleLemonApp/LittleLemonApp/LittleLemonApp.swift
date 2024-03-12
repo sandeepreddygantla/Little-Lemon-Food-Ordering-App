@@ -1,9 +1,4 @@
-//
-//  LittleLemonAppApp.swift
-//  LittleLemonApp
-//
-//  Created by Jevgeni Vakker on 16.03.2023.
-//
+
 
 import SwiftUI
 
